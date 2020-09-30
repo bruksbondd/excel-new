@@ -1,2 +1,4 @@
+node_modules
+.eslintrc
+dist
 .idea
-node_module
